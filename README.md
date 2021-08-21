@@ -17,28 +17,16 @@
 
 ## Pengenalan C++ 
 C++ merupakan bahasa pemrograman
-## Pengenalan C++
 
->
 
 ## Algoritma
-
 Algoritma adalah langkah penyelesaian suatu masalah
-
-haloooo
-halooooo
-
-## Algoritma
-
 
 
 ## Variabel & Type Data
-
+<!-- tolong diisi -->
 
 ## Operator
-
-
-
 1.	Aritmatika (+,-,/,*,mod,div) <br>
     <pre>Aritmatika : Numerik + Numerik = Numerik.
     Mod adalah sisa pembagi bilangan bulat.
@@ -57,10 +45,10 @@ halooooo
 
 
 ## Input / Output
-
+<!-- tolong diisi -->
 
 ## Seleksi
-
+<!-- tolong diisi -->
 ## Perulangan
 
 Perulangan terdiri dari IF ELSE dan SWITCH CASE
